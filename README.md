@@ -7,8 +7,9 @@ This project recreates essential UI screens of the Blinkit grocery app with smoo
 
 ## 📸 Preview
 
-![Blinkit UI Preview](preview.png)
-
+![Blinkit UI Preview](assets/Screenshot 2025-11-17 174903.png)
+![Blinkit UI Preview](assets/Screenshot 2025-11-17 174840.png)
+![Blinkit UI Preview](assets/Screenshot 2025-11-17 174744.png)
 ---
 
 ## 🚀 Features
@@ -55,7 +56,7 @@ Blinkit-UI/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Blinkit-UI.git
+
 cd Blinkit-UI
 ```
 
