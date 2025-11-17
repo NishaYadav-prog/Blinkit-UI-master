@@ -3,10 +3,11 @@
 A clean and modern **Blinkit UI clone** built using **Flutter**.  
 This project recreates essential UI screens of the Blinkit grocery app with smooth UI, reusable components, and a clean folder structure.
 
----
-![Preview](assets/Screenshot_2025-11-17_174903.png)
-![Preview](assets/Screenshot_2025-11-17_174840.png)
-![Preview](assets/Screenshot_2025-11-17_174744.png)
+## 📸 Preview
+
+![Preview](assets/Screenshot%202025-11-17%20174744.png)
+![Preview](assets/Screenshot%202025-11-17%20174840.png)
+![Preview](assets/Screenshot%202025-11-17%20174903.png)
 
 
 ## 🚀 Features
